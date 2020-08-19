@@ -3,7 +3,7 @@ It's an AI voice controlled news reading application.
 
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
-### [Live Site](https://https://voice-ai-news-reader.netlify.app//)
+### [Live Site](https://voice-ai-news-reader.netlify.app/)
 
 ![Voice Controlled React News Application](https://ibb.co/KzLV4qd)
 
