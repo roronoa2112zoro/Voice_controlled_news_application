@@ -5,8 +5,6 @@ It's an AI voice controlled news reading application.
 
 ### [Live Site](https://voice-ai-news-reader.netlify.app/)
 
-(https://ibb.co/KzLV4qd)
-
 ## Introduction
 This is a code repository for the corresponding Project. 
 
